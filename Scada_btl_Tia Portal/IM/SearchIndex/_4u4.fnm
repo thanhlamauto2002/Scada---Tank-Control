@@ -1,0 +1,31 @@
+þÿÿÿ°###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreCommentDatatypeValue###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeAddressAcknowledgementModelAlarmAlertAcknowledgementIdAcknowledgedText
+ComingTextComingGoingText	GoingText	Alignment	CycleUnitStartingPointDayStartingPointHourStartingPointMinuteStartingPointMonthStartingPointSecond	CycleTimeNumber	ShortNameWebLanguageStartScreenWebUxStartScreen
+LogoutTimeDataTypeHmiDataTypeCodeCommonAlarmClassStationNamePartnerNameNodeNameSCL CodeInstance DB	BackColor	GridColorBackFillStyle
+BlinkColor	BlinkMode
+BlinkSpeedFillColorModeFlip	ForeColorLayerRotationBackFlashingColorOffBackFlashingColorOnBackFlashingRateBorderBackColorBorderColorBorderFlashingColorOffBorderFlashingColorOnBorderFlashingRateCaptionBackColorCaptionColorCornerStyle	EdgeStyleFillPatternColorFlashingFlashingColorOffFlashingColorOnFlashingRateFontFontNameHorizontalAlignmentLineEndShapeStyleModeSelectBackColorSelectForeColorSeparatorBackColorSeparatorColorSeparatorLineEndShapeStyleSeparatorStyleTextOffTextOnTextOrientationVerticalAlignmentBarBackColorBarColorBorderBrightColor3DBorderInnerStyle3DBorderOuterStyle3DBorderShadeColor3DCaption
+FocusColor
+LabelColorPositionFontThumbBackColor	TickStyleAlarmLowerLimitColorAlarmUpperLimitColorBarBackFillStyleBarOrientationLimit4LowerLimitColorLimit4UpperLimitColorLimit5LowerLimitColorLimit5UpperLimitColor
+ScaleColorScalePosition
+ScaleStartScalingTypeSegmentColoringToleranceLowerLimitColorToleranceUpperLimitColorTrendIndicatorColorUnitWarningLowerLimitColorWarningUpperLimitColorFillingDirectionPictureAlignmentStyleSettingsAboveUpperLimitColorBelowLowerLimitColor
+DataFormatFormatPatternTextControlDesignModeExportDelimiterExportDirectorynameExportFilenameExportFormatExportFormatGuidExportSelectionGraphDirection	LineColorPercentageAxisAlignmentPercentageAxisColorRTPersistenceRTPersistenceTypeShowScrollbars	ShowTitleStatusbarBackColorStatusbarFontStatusbarFontColorTimeBaseToolbarAlignmentToolbarBackColorTooltipTextHotkeyColor	FillColor	FillStyleLabel	LineStyleLineTypeLowerLimitColor
+PointColor
+PointStyleRangeDefinition
+SourceTypeTimeAxisTrendWindowUncertainStateColorUpdateCycleUpperLimitColor	ValueAxisCoarseGridColorFineGridColor
+RulerColor
+RulerLayer
+RulerStyle	BeginTime
+DateFormatEndTime	RangeType
+TimeFormatTimeRangeBaseColumnScrollbarColumnTitleAlignmentDefaultSortDefaultSort2DefaultSort2ColumnDisplayOptionsDoubleClickActionGridLineColorHitListDefaultSortHitListRelTimeFactorTypeMessageListTypeRowScrollbarRowTitleAlignmentSelectedCellColorSelectedCellForeColorSelectedRowColorSelectedRowForeColorSelectedTitleColorSelectedTitleForeColorSelectionColoringSelectionRectSelectionRectColorSelectionTypeSortSequence
+TableColorTableColor2TableForeColorTableForeColor2
+TitleColorTitleDarkShadowColorTitleForeColorTitleGridLineColorTitleLightShadowColor	TitleSort
+TitleStyleSortDirectionSortDirectionInHitlist	FunctionsTagAddressPanelInfoAddressAccessModeCoding
+ConnectionPlcNameControllerTagLimitHighConstantLimitLowConstant
+StartValueSubstituteValuePropertyNameTagValueForPropertyTagPageUITypeEditorBitPositionUITypeEditorTagExpressionRangeFromTo
+DataSourceUpdateCycleXUpdateCycleYXAxisYAxis
+AlarmClassTriggerMode
+TriggerTagDisplaySuppressionMask
+AlarmText1ToolTipText
+AppearanceSelectionBackColorSelectionForeColorTableBackColor	TableFontTableGridlineColorTableHeaderBackColorTableHeaderFontTableHeaderForeColorAuthorizationTimeStepBaseSort
+TimeColumnPageFormatUnitPageOrientationUnitFormatFillPatternStorageMediaAcquisitionCycleAcquisitionModeAnalogProcessingMethodHysteresisModeLoggingCycleProcessTagTypeNameSupplyingTags
+ProcessTag
+DialogTypePageRangeTypeSelectionTimeTypeSelectionTimeFromSelectionTimeToSelectionTimeRangePrinter1Printer2Printer3TargetDirectoryReportPrintJobPreCodeHeaderFooterAdaptPicturePictureTransparentColor

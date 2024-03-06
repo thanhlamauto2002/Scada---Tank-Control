@@ -1,0 +1,128 @@
+<HMIMTConfig>
+  <Information Version="7.0.2" Company="SIEMENS AG" Creator="SIEMENS AG" />
+  <Toolbars />
+  <Scripts>
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_12408.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_12409.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_12410.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_12411.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_12414.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_14437.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_14469.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_15538.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_18030.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_18031.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_18032.bmo" />
+    <Script Src="ScriptLib\OnMenuToolbarClick0_14815233_18033.bmo" />
+  </Scripts>
+  <MainMenu Name="MAIN" Enabled="-1" Visible="-1" PasswordLevel="0" MaskColor="16711935">
+    <MenuItems>
+      <MenuItem Name="Menu_command_1" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="" ID="1">
+        <MenuItems>
+          <MenuItem Name="Menu_command_12" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_15538" ID="2">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="MAIN" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_2" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_12408" ID="3">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="ROOM1" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_7" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_12409" ID="4">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="ROOM2" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_3" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_12410" ID="5">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="ROOM3" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_4" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_12411" ID="6">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="ROOM4" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_5" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_12414" ID="7">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="ALARM" />
+            </LDTexts>
+          </MenuItem>
+        </MenuItems>
+        <LDTexts>
+          <LDText LCID="1033" Text="INTRODUCE" />
+        </LDTexts>
+      </MenuItem>
+      <MenuItem Name="Menu_command_13" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="" ID="11">
+        <MenuItems>
+          <MenuItem Name="Menu_command_14" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_18030" ID="12">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="REPORT 1" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_15" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_18031" ID="13">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="REPORT 2" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_16" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_18032" ID="14">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="REPORT 3" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_17" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_18033" ID="15">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="REPORT 4" />
+            </LDTexts>
+          </MenuItem>
+        </MenuItems>
+        <LDTexts>
+          <LDText LCID="1033" Text="REPORT" />
+        </LDTexts>
+      </MenuItem>
+      <MenuItem Name="Menu_command_9" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="" ID="8">
+        <MenuItems>
+          <MenuItem Name="Menu_command_10" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_14469" ID="9">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="Log in" />
+            </LDTexts>
+          </MenuItem>
+          <MenuItem Name="Menu_command_11" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="1" Image="" Key="" ID="10">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="User Admin Page" />
+            </LDTexts>
+          </MenuItem>
+        </MenuItems>
+        <LDTexts>
+          <LDText LCID="1033" Text="User Logging" />
+        </LDTexts>
+      </MenuItem>
+      <MenuItem Name="Menu_command_6" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="" ID="16">
+        <MenuItems>
+          <MenuItem Name="Menu_command_8" UserData="" Enabled="-1" Separator="0" Visible="-1" PasswordLevel="0" Image="" Key="OnMenuToolbarClick0_14815233_14437" ID="17">
+            <MenuItems />
+            <LDTexts>
+              <LDText LCID="1033" Text="EXIT" />
+            </LDTexts>
+          </MenuItem>
+        </MenuItems>
+        <LDTexts>
+          <LDText LCID="1033" Text="STOP RUNTIME" />
+        </LDTexts>
+      </MenuItem>
+    </MenuItems>
+  </MainMenu>
+</HMIMTConfig>
